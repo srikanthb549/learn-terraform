@@ -1,3 +1,3 @@
-module "test" {
+module "Prod-Module" {
   source = "./module"
 }
